@@ -1,3 +1,4 @@
-DevOps is driving the major role in IT Industry
-Cloud is Heart of DevOps & IT industry
-K8s and terraform tools are most important roles playing In DevOps
+1.DevOps is driving the major role in IT Industry
+2.Cloud is Heart of DevOps & IT industry
+3.K8s and terraform tools are most important roles playing In DevOps
+
